@@ -12,7 +12,7 @@ const message = new Image();
 message.src = "qa.png";
 
 const player = {
-  x: 1400,
+  x: 1200,
   y: 550,
   width: 64,
   height: 64,
